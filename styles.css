@@ -1,7 +1,6 @@
-<style>
-    body {background-color: black;}
-    h1{color: white;text-align: center;}
-    h2{color: white;text-align: left;}
-    p{color: white;text-align: left; {font-size: medium;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
-    
-</style>
+body {background-color: black; color: white;}
+h1 {font-size: 20px;}
+p {font-size: 12px; color: green;}
+div {border-style: dotted; border-width: 2px; width: 100px; height: 100px;}
+.numbers-to-letters {list-style: lower-alpha;}
+.dots-to-squares {list-style: square;}
