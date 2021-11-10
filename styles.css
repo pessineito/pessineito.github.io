@@ -10,7 +10,7 @@ div {border-style: dotted; border-width: 2px; width: 100px; height: 100px;}
 #background2 {background-color: burlywood; color: darkblue;}
 #background6 {background-color: darkcyan; color: darkgray;}
 #background7 {background-color: darkgreen; color: darkgrey;}
-#background8 {background-color: darkmagenta; color: whitesmoke;clear: both; position: relative;
+#background8 {background-color: darkmagenta; color: whitesmoke;clear: both; position: absolute;
     height: 200px;
     margin-top: -200px;}
 .background-mep {background-color: thistle; color: tomato;}
