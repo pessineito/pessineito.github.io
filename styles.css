@@ -4,3 +4,9 @@ p {font-size: 12px; color: green;}
 div {border-style: dotted; border-width: 2px; width: 100px; height: 100px;}
 .numbers-to-letters {list-style: lower-alpha;}
 .dots-to-squares {list-style: square;}
+#background1 {background-color: beige; color: blueviolet;}
+#background2 {background-color: burlywood; color: darkblue;}
+#background6 {background-color: darkcyan; color: darkgray;}
+#background7 {background-color: darkgreen; color: darkgrey;}
+#background8 {background-color: darkmagenta; color: whitesmoke;}
+.background-mep {background-color: thistle; color: tomato;}
