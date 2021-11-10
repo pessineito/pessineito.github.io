@@ -9,6 +9,7 @@ p {font-size: 18px; color: green; margin: 35px;}
     width: 200px;
     height: 150px;  
   }
+  #padding1 {padding: auto;}
 div {border-style: dotted; border-width: 2px; width: 100px; height: 100px; background-color: aqua;}
 .numbers-to-letters {list-style: lower-alpha;}
 .dots-to-squares {list-style: square;}
