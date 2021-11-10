@@ -1,7 +1,6 @@
 body {background-color: black; color: white;}
 h1 {font-size: 30px;}
 p {font-size: 12px; color: green;}
-img {float: right;}
 div {border-style: dotted; border-width: 2px; width: 100px; height: 100px;}
 .numbers-to-letters {list-style: lower-alpha;}
 .dots-to-squares {list-style: square;}
