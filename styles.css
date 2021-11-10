@@ -10,7 +10,7 @@ div {border-style: dotted; border-width: 2px; width: 100px; height: 100px;}
 #background2 {background-color: burlywood; color: darkblue;}
 #background6 {background-color: darkcyan; color: darkgray;}
 #background7 {background-color: darkgreen; color: darkgrey;}
-#background8 {background-color: darkmagenta; color: whitesmoke;}
+#background8 {background-color: darkmagenta; color: whitesmoke;clear: both;}
 .background-mep {background-color: thistle; color: tomato;}
 #third-nav {float: left; width: 30%; margin-right: 10px; margin-bottom: 10px;}
 #third-section {float: right; width: 50%; margin-right: 10px; margin-top: 10px; margin-left: 10px; margin-bottom: 10px;}
