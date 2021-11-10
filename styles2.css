@@ -1,6 +1,6 @@
 body {background-color: rgb(247, 143, 8); color: white;}
-h1 {font-size: 20px; border: 10px;}
-h2 {font-size: 18px; border: 10px}
+h1 {font-size: 20px; border-style: double; border-width: 10px;}
+h2 {font-size: 18px; border-style:double; border-width: 10px;}
 p {font-size: 18px; color: green; margin: 35px;}
 #rcorners1 {
     border-radius: 25px;
